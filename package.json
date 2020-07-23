@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "chirper-app",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "Udacity React Nano Degree Redux Project Walkthrough",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.12.0",
